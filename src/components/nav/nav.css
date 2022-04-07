@@ -1,0 +1,48 @@
+.nav-body{
+    background-color: #2a083e;
+    height:  20px;
+    font-size: x-small;
+    
+
+}
+.nav-body-left{
+    display: inline-flex;
+    flex-direction: row;
+    width: 50vw;
+    float: left;
+    
+
+}
+.nav-body-left-numb{
+    width:auto;
+   
+}
+.nav-body-left-lists li{
+    list-style-type: none;
+    display: inline;
+    flex-direction: row;
+    margin-right:10px ;
+    color: white;
+   
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
+a:hover{
+    color: orange;
+}
+
+.nav-body-left-numb{
+    color: white;
+}
+.nav-body-right li{
+text-decoration: none;
+list-style-type: none;
+display: inline;
+flex-direction: row;
+margin: 10px;
+}

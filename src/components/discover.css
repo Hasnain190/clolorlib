@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap');
+.discover{
+    background-image: url('https://preview.colorlib.com/theme/travelix/images/xhome_slider.jpg.pagespeed.ic.lLDKIDdpoS.webp');
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #2a083e;
+    
+    
+}
+
+.discover-letter{
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+    padding-top: 30vh;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.the-world{
+    font-size: 4rem;
+    color: white;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    
+}
